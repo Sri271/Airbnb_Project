@@ -1,9 +1,6 @@
 # Airbnb Analysis 
 Tableau Dashboard - https://public.tableau.com/app/profile/sriram.w/viz/Airbnb_Project_16951837870940/Dashboard1?publish=yes
 
-![Dashboard 1](https://github.com/Sri271/Airbnb_Project/assets/128829259/cadad1dc-b08e-4ded-b7dd-b30d28b0ad41)
-
-
 To analyze Airbnb data using MongoDB Atlas, perform data cleaning
 and preparation, develop interactive geospatial visualizations, and create dynamic
 plots to gain insights into pricing variations, availability patterns, and location-based
@@ -66,3 +63,5 @@ Overall, the result of the project is to develop dynamic and interactive visuali
 that allow users to filter and drill down into the data based on their preferences.
 Enable users to interact with the visualizations to explore specific regions,
 property types, or time periods of interest.
+
+![Dashboard 1](https://github.com/Sri271/Airbnb_Project/assets/128829259/cadad1dc-b08e-4ded-b7dd-b30d28b0ad41)
