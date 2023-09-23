@@ -54,6 +54,7 @@ df['latitude']=ll['latitude']
 df['rating']=df['rating'].astype(int)
 
 st.title(':blue[Airbnb Data Visualization]')
+st.write( f'<h6 style="color:rgb(0,  102, 204, 255);">App Created by Sriram</h6>', unsafe_allow_html=True ) 
 st.write("Tableau Dashboard - [link](https://public.tableau.com/app/profile/sriram.w/viz/Airbnb_Project_16951837870940/Dashboard1?publish=yes)")
 
 tab1,tab2,tab3,tab4,tab5= st.tabs(['Count','Price_Rating Analysis','Booking_pattern','Availability','geo_visualisation'])
